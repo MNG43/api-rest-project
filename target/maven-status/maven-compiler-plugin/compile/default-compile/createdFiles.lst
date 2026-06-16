@@ -1,0 +1,12 @@
+com\universite\consumer\controller\ControleurConsommateur.class
+com\universite\consumer\service\ServiceClientFournisseur.class
+com\universite\consumer\ApplicationConsommateur.class
+com\universite\consumer\config\ConfigurationCors.class
+com\universite\consumer\service\ExceptionServiceFournisseurIndisponible.class
+com\universite\consumer\service\ServiceEnrichissementDonnees.class
+com\universite\consumer\service\ServiceClientFournisseur$2.class
+com\universite\consumer\service\ServiceClientFournisseur$1.class
+com\universite\consumer\config\ConfigurationServiceFournisseur.class
+com\universite\consumer\exception\GestionnaireGlobalExceptions.class
+com\universite\consumer\config\ConfigurationCors$1.class
+com\universite\consumer\config\CarteRessourcesFournisseur.class
